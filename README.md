@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-## NLW Valoriza
-=======
-# nlw-together-nodejs
-<h1 align="center">NLW Valoriza</h1>
->>>>>>> ebc6482c93212f24f2ce4a786c2a74638a41d301
-
 ## Regras
 
 - Cadastro de usuário
@@ -13,6 +6,7 @@
   - Não e permitido cadastrar usuário sem e-mail
 
 - Cadastro de TAG
+
   - Não é permitido cadastrar mais de uma tag com o mesmo nome
   - Não é permitido cadastrar tag sem nome
   - Não é permitido o cadastro por usuário que não sejam administradores
