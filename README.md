@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ## NLW Valoriza
+=======
+# nlw-together-nodejs
+<h1 align="center">NLW Valoriza</h1>
+>>>>>>> ebc6482c93212f24f2ce4a786c2a74638a41d301
 
 ## Regras
 
