@@ -3,9 +3,16 @@ import express, { NextFunction, Request, Response } from "express";
 import "express-async-errors";
 import { router } from "./routes";
 import "./database";
+import cors from "cors";
 
 // #types/express
 const app = express();
+app.use(cors());
+
+// Caso queira reservar apenas um IP ou cliente
+// app.use(cors({
+//   origin:""
+// }))
 
 app.use(express.json());
 
